@@ -31,5 +31,3 @@ OTHER SKILLS
 - 📫 How to reach me: https://www.linkedin.com/in/mohammed-almadhoun-4060a4122/
 - 💬 My Gmail : mohammedmadhoun18@gmail.com
 
-
-https://stats.justsong.cn/api/github?username=moejehad
