@@ -31,5 +31,3 @@ OTHER SKILLS
 - 📫 How to reach me: https://www.linkedin.com/in/mohammed-almadhoun-4060a4122/
 - 💬 My Gmail : mohammedmadhoun18@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moejehad)](https://github.com/anuraghazra/github-readme-stats) 
-
