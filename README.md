@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Mohammed Almadhoun
 
 Software Developer with over 7 years working experience .
+Full-time freelancer, available 24/7, so feel free to call me at any time if you require my services.
 
 SKILLS IN MOBILE APPLICATION DEVELOPMENT
 * Kotlin Programming Language
