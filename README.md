@@ -34,5 +34,4 @@ OTHER SKILLS
 
 -Full-time freelancer, available 24/7, so feel free to call me at any time if you require my services.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moejehad&show_icons=true&theme=default)
               
