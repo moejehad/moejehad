@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Mohammed Almadhoun
 
-Android Application Developer
+Software Developer
 
 
 - 📫 How to reach me: <a class="badge-base__link LI-simple-link" href="https://ps.linkedin.com/in/moe-madhoun?trk=profile-badge">Mohammed Almadhoun</a>
